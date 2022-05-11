@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **inferno-mack/inferno-mack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi, I am Akash Saini, Pre-Final student at IET Lucknow
+- 👀 I am interested in Data Structures and Algorithms
+- 🌱 I am currently working on MERN Stack
+- 💞️ I am looking to collaborate on Projects related to Web Development
+- 📫 Contact me via meakash605@gmail.com
